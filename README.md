@@ -8,4 +8,5 @@ Bu depo silikon işlemcili macbooklar üzerinde çalışabilmesi için özel ola
 2. Ardından buradan istediğiniz bir satranç motorunu seçip indirin.
 3. Uygulamaya girin Settings > Engines kısmından + tuşuna basarak motoru ekleyin.
  
-Indirme linki: `https://pixeldrain.com/u/zo7A8V9t`
+## Stockfish:
+İndirme linki: `https://pixeldrain.com/u/zo7A8V9t`
